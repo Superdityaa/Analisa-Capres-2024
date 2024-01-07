@@ -12,7 +12,7 @@ Naive Bayes was chosen for its simplicity and effectiveness in various scenarios
 
 Requirement for Implementations
 ----------------------------------------------------------------------------
-Requirement yang dibutuhkan adalah sebagai berikut:
+The required components are as follows:
 - Data from Crawling X (twitter) Comments since the beginning of the 2024 presidential election
 - Pandas Package
 - Regular Expression (REGEX) Package
